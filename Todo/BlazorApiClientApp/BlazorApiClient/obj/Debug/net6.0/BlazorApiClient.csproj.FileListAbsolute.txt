@@ -30,3 +30,8 @@ C:\Users\Jorge Vasquez\Projects\Todo\BlazorApiClientApp\BlazorApiClient\obj\Debu
 C:\Users\Jorge Vasquez\Projects\Todo\BlazorApiClientApp\BlazorApiClient\obj\Debug\net6.0\BlazorApiClient.pdb
 C:\Users\Jorge Vasquez\Projects\Todo\BlazorApiClientApp\BlazorApiClient\obj\Debug\net6.0\BlazorApiClient.genruntimeconfig.cache
 C:\Users\Jorge Vasquez\Projects\Todo\BlazorApiClientApp\BlazorApiClient\obj\Debug\net6.0\ref\BlazorApiClient.dll
+C:\Users\Jorge Vasquez\Projects\Todo\BlazorApiClientApp\BlazorApiClient\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\Jorge Vasquez\Projects\Todo\BlazorApiClientApp\BlazorApiClient\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Jorge Vasquez\Projects\Todo\BlazorApiClientApp\BlazorApiClient\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Jorge Vasquez\Projects\Todo\BlazorApiClientApp\BlazorApiClient\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Jorge Vasquez\Projects\Todo\BlazorApiClientApp\BlazorApiClient\obj\Debug\net6.0\BlazorApiClient.csproj.CopyComplete

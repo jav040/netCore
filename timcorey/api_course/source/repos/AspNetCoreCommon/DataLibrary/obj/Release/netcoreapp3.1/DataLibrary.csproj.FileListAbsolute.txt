@@ -1,9 +1,0 @@
-C:\Users\Jorge Vasquez\source\repos\AspNetCoreCommon\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.deps.json
-C:\Users\Jorge Vasquez\source\repos\AspNetCoreCommon\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.dll
-C:\Users\Jorge Vasquez\source\repos\AspNetCoreCommon\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.pdb
-C:\Users\Jorge Vasquez\source\repos\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jorge Vasquez\source\repos\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
-C:\Users\Jorge Vasquez\source\repos\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
-C:\Users\Jorge Vasquez\source\repos\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Jorge Vasquez\source\repos\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.dll
-C:\Users\Jorge Vasquez\source\repos\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.pdb

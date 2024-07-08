@@ -4,7 +4,7 @@ import pulp
 prob = pulp.LpProblem("Gym_Benefits_Simplified", pulp.LpMaximize)
 
 # Define the variables
-x1 = pulp.LpVariable('x1', lowBound=0, upBound=6, cat='Integer')  # Days at the gym (0-5 days)
+x1 = pulp.LpVariable('x1', lowBound=0, upBound=5, cat='Integer')  # Days at the gym (0-5 days)
 x2 = 7 - x1  # Days not at the gym (complementary to x1)
 
 # Define the objective function coefficients
